@@ -1,5 +1,11 @@
 # Kyle Kerdsri's First CS193 Homework
 
+Some of Kyle's favorite things about CS193
+- The opening questions during the first class
+- How welcoming the TA's were
+- The time of the class
+- The other epic students
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
